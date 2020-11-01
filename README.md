@@ -63,15 +63,27 @@ Figure 4:  Pyber Driver Count Data
 
 Similarly, the summary data is presented as percentages of the totals in the following pie charts:
 
-Figure 5:  Pyber Ride Fare Data
+Figure 5:  Total Fares by City Type
 ![Ride_Data](analysis/Fig5.png)
 
-Figure 6:  Pyber Driver Count Data
+Figure 6:  Total Rides by City Type
 ![Ride_Data](analysis/Fig6.png)
 
-Figure 7:  Pyber Driver Count Data
+Figure 7:  Total Drivers by City Type 
 ![Ride_Data](analysis/Fig7.png)
+
+The final result of our our data analysis shows a line plot over time which will help us confirm whether the above summary data is a consistent circumstance, in a longitudinal fashion.  Are there any reasons to suspect that at certain points over the course of time that fares may increase in Suburban or Rural cities over Urban cities?  The following indicates, at least for the period of time summarized that Urban Cities out perform Suburban and Rural cities for ride sharing.
+
+Figure 8:  Total Fare by City Type from January 2019 through April 2019
+![Ride_Data](analysis/Fig8.png)
 
 
 ## Summary
 ---
+In summary, to answer questions of where to invest to improve access to ride sharing services the data makes a compelling case that more revenue generation capabilities lie in Urban cities than Suburban or Rural cities.  However, we have only looked at summary data related to quantity of rides and fares, average prices of those fares, how many drivers, etc.  We could have looked at overall revenues and compared by city type by multiplying fares * quanties for each city type.  This would likely confirm that we need to ensure we focus investments in Urban cities so that we do not lose market share to competitors who might be able to provide enhanced ride experiences.
+
+What we've seen also in Suburban and Rural cities is that fares are higher and ride opportunities are fewer.  This could be a supply and demand problem.  Since drivers are fewer in these locals, they may have more ability to demand higher fares, resulting in suppressed rides as consumers may be able to find alternative ride opportunities in some other format.  We could add drivers to a Suburban or Rural city and lower our fare prices to see if it would encourage more riders.
+
+There are several other opportunities to do more analysis if given more data. As indicated above we could surge drivers in a select Suburban and Rural city to see how fare and ride counts change over time.  We could also surge luxury vehicles in Urban environments to determine whether ride counts might increase due to customer preferences for an enhanced experience.
+
+It is exciting to be a part of PyBer and as an analyst, I look forward to continuing my analysis.
