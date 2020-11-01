@@ -61,5 +61,17 @@ Figure 3:  Pyber Ride Fare Data
 Figure 4:  Pyber Driver Count Data
 ![Ride_Data](analysis/Fig4.png)
 
+Similarly, the summary data is presented as percentages of the totals in the following pie charts:
+
+Figure 5:  Pyber Ride Fare Data
+![Ride_Data](analysis/Fig5.png)
+
+Figure 6:  Pyber Driver Count Data
+![Ride_Data](analysis/Fig6.png)
+
+Figure 7:  Pyber Driver Count Data
+![Ride_Data](analysis/Fig7.png)
+
+
 ## Summary
 ---
