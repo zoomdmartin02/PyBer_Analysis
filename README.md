@@ -10,6 +10,8 @@ Table 1:  Sample City Data
 Table 2:  Sample Ride Data
 ![Ride_Data](analysis/Ride_Data_Sample.png)
 
+The goal of this analysis is to merge these two tables together and then analyze the data by creating summary data frames, performing summations, averages and other calculations and then plotting relevant data to visualizations that are meaningful to decision makers.
+
 There are 120 records in the City Data file and 2,375 records in the Ride Data file.  Each table was inspected with Pandas/Python methods to check for the presence of null values, data types were noted before the two sets were merged.  At the conclusion of the merge, several summary dataframs were created by using groupby() methods and then the describe() function used to gather overall statistical information about the summary data sets.  Following are code snipets that show an example of grouping the larger merged data set into smaller data sets by city type and the results of the describe() function:
 
 ``` Pandas df creation using groupby() method
@@ -35,10 +37,16 @@ Name: ride_id, dtype: float64
 ```
 
 
-The goal of this analysis is to merge these two tables together and then analyze the data by creating summary data frames, performing summations, averages and other calculations and then plotting relevant data to visualizations that are meaningful to decision makers.
 
 ## Results
 ---
+
+As the data was analyzed, the first exercise was to understand the city types, "Urban", "SubUrban" and "Rural" and comprehend how many rides were occurring in these city types and how many fares were being collected in each city.  The following scatter chart, configured as a bubble chart represents cities where coral colored markers are Urban, blue markers are Suburban and yellow markers are Rural cities.  The size of each bubble represents the total fares collected in that city.  The X axis represents the quantity of rides increasing from left to right and the vertical Y axis represents the average cost of fares.
+
+Figure 1:  Pyber Ride Sharing Data
+![Ride_Data](analysis/Fig1.png)
+
+From this chart, it is evident that there are fewer rides occuring in Rural cities and the fares are highest.  Alternatively, increasing from Suburban to Urban are the quantity of rides and the potential for total fare collection.
 
 ## Summary
 ---
