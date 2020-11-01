@@ -48,12 +48,18 @@ Figure 1:  Pyber Ride Sharing Data
 
 From this chart, it is evident that there are fewer rides occuring in Rural cities and the fares are generally higher.  Alternatively, increasing from Suburban to Urban are the quantity of rides and the potential for total fare collection.  Average fare decreases as you move from Rural to Suburban to Urban city types.
 
-Another view of the summary data would be the following "box-and-whisker" plot.  This visualization focuses on Ride Count summary data.  In this view, one can tell several things about the underlying data.  The lowest number of rides for the Urban city type for example is 12 rides.  The box upper and lower boundaries represnet the upper and lower quartiles (25%) and (75%), respectively.  The orange line in the middle of the box is the 50th percentile or in other terms, the median of that summary data set.  The standard deviation is a number between 4 and 5.  Outliers will show up outside of the top whisker.  There is only one outlier.  This data confirms what was represented in Figure 1 that generally there are more rides happening in Urban cities than Suburban and Rural Cities
+Another view of the summary data would be the following "box-and-whisker" plot.  This visualization focuses on Ride Count summary data.  In this view, one can tell several things about the underlying data.  The lowest number of rides for the Urban city type for example is 12 rides.  The box upper and lower boundaries represent the upper and lower quartiles (25%) and (75%), respectively.  The orange line in the middle of the box is the 50th percentile or in other terms, the median of that summary data set.  The standard deviation is a number between 4 and 5.  Outliers will show up outside of the top whisker.  There is only one outlier.  This data confirms what was represented in Figure 1 that generally there are more rides happening in Urban cities than Suburban and Rural Cities
 
 Figure 2:  PyBer Ride Count Data
 ![Ride_Data](analysis/Fig2.png)
 
+Additional summary box and whisker plots confirm the original scatter plot as it relates to Ride Fare Data and Driver Count Data:
 
+Figure 3:  Pyber Ride Fare Data
+![Ride_Data](analysis/Fig3.png)
+
+Figure 4:  Pyber Driver Count Data
+![Ride_Data](analysis/Fig4.png)
 
 ## Summary
 ---
