@@ -8,7 +8,7 @@ Sample City Data
 ![City_Data](analysis/City_Data_Sample.png) 
 
 Sample Ride Data
-![Ride_Data](analysis/Rity_Data_Sample.png)
+![Ride_Data](analysis/Ride_Data_Sample.png)
 
 The goal of this analysis is to merge these two tables together
 
