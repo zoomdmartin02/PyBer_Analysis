@@ -51,7 +51,7 @@ From this chart, it is evident that there are fewer rides occuring in Rural citi
 Another view of the summary data would be the following "box-and-whisker" plot.  This visualization focuses on Ride Count summary data.  In this view, one can tell several things about the underlying data.  The lowest number of rides for the Urban city type for example is 12 rides.  The box upper and lower boundaries represnet the upper and lower quartiles (25%) and (75%), respectively.  The orange line in the middle of the box is the 50th percentile or in other terms, the median of that summary data set.  The standard deviation is a number between 4 and 5.  Outliers will show up outside of the top whisker.  There is only one outlier.  This data confirms what was represented in Figure 1 that generally there are more rides happening in Urban cities than Suburban and Rural Cities
 
 Figure 2:  PyBer Ride Count Data
-![Ride_Data](analysis/Fig1.png)
+![Ride_Data](analysis/Fig2.png)
 
 
 
